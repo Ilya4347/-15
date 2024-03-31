@@ -1,2 +1,1 @@
-# -15
-Урок 15. Семинар. Построение графиков
+import random lst = ['robot'] * 10 lst += ['human'] * 10 random.shuffle(lst) data = pd.DataFrame({'whoAmI'lst}) data.head() |
